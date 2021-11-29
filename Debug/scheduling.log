@@ -1,0 +1,4 @@
+﻿  scheduling.cpp
+D:\VS\scheduling\scheduling.cpp(979,6): warning C4101: “choice”: 未引用的局部变量
+D:\VS\scheduling\scheduling.cpp(978,7): warning C4101: “ch”: 未引用的局部变量
+  scheduling.vcxproj -> D:\VS\scheduling\Debug\scheduling.exe
